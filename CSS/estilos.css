@@ -1,0 +1,159 @@
+body {
+    background-color: #d8d3d3;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+}
+.main-header{
+    background-image: url(../IMAGENS/background.png);
+    height: 560px;
+    margin: 0px;
+    background-size: cover;
+    background-position: right;    
+}
+
+.main-header-content{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin: auto;
+    text-align: center;
+    padding-top: 240px;
+}
+.main-header-content h1{
+    text-transform: uppercase;
+    text-shadow: 3px 4px 3px rgb(17, 26, 70);
+    font-size: 45px;
+}
+body {
+    margin: 0px;
+}
+.main-nav {
+    background-color: rgb(11, 17, 34);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.main-nav a{
+    margin-left: 195px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+a:link {
+    color: white;
+}
+a:visited{
+    color:rgb(78, 67, 67);
+}
+a:hover {
+    background-color: black;
+    color: white;
+}
+a:active {
+    background-color: rgb(0, 0, 34);
+}
+main {
+    width: 80%;
+    margin: auto;
+}
+.main-article {
+    background-color: antiquewhite;
+}
+.main-article iframe {
+    margin-left: 40px;
+}
+.main-footer {
+    color: white;
+    background-color: #585858;
+    text-align: center;
+    padding: 20px;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 1px;
+}
+
+/* CSS CRIADO PARA (CARREIRA.HTML) */
+
+.main-carreira p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main-carreira h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.main-carreira img {
+    float: left;
+    margin-right: 40px;
+}
+.main-carreira {
+    background-color: antiquewhite;
+}
+
+/* CSS CRIADO PARA (PREMIACAO.HTML) */
+
+.main-premiacao {
+    background-color: antiquewhite;
+}
+.main-premiacao p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main-premiacao h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.main-premiacao img {
+    float: left;
+    margin-right: 40px;
+}
+.main-premiacao h2 {
+    float: right;
+    margin-left: 40px;
+}
+.main-premiacao h3 {
+    padding-right: 100px;
+}
+
+/* CSS CRIADO PARA (SOBRE.HTML) */
+
+.main-sobre {
+    background-color: antiquewhite;
+}
+.main-sobre p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main-sobre h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.main-sobre img {
+    float: left;
+    margin-right: 40px;
+}
+.main-sobre h2 {
+    float: right;
+    margin-right: 40px;
+}
+
+/* CSS CRIADO PARA (DISCOGRAFIA.HTML) */
+
+.main-discografia {
+    background-color: antiquewhite;
+}
+.main-discografia p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main-discografia h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.main-discografia h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.main-discografia img {
+    float: left;
+    margin-right: 40px;
+}
+.main-discografia h3 {
+    float: right;
+    margin-left: 40px;
+}
+
